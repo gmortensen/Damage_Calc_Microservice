@@ -1,0 +1,1 @@
+{"Attacker's Stat": 12, "Attacker's Buff": .05, "Defender's Stat": 8, "Defender's Buff": None}
